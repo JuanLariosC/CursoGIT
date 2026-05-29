@@ -1,1 +1,1 @@
-Console.write("adios mundo");
+Console.write("Hola mundo");
